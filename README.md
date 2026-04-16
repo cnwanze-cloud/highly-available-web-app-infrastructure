@@ -119,7 +119,7 @@ This project demonstrates the design and deployment of a **highly available, sca
 - Associate with:
   - `private-subnet-1`
   - `private-subnet-2`
-<img width="975" height="242" alt="image" src="https://github.com/user-attachments/assets/1316a0b6-1e77-4f25-86de-06f3a2fac437" />
+<img width="972" height="243" alt="image" src="https://github.com/user-attachments/assets/0dfd5206-a066-40ef-b0e5-4f875fca81b2" />
 
 ---
 
