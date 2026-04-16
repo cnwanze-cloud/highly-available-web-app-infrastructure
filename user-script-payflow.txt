@@ -1,0 +1,8 @@
+#!/bin/bash
+yum update -y
+yum install -y httpd
+
+systemctl enable httpd
+systemctl start httpd
+
+echo "PayFlow Server - $(hostname)" > /var/www/html/index.html
